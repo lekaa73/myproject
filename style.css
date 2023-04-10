@@ -1,4 +1,8 @@
 h1
 {
-    color: deeppink;
+    color: green;
+}
+body
+{
+    background-color: rgba(240, 186, 52, 0.573);
 }
